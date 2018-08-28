@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.gnu.org/copyleft/lgpl.html</licenseUrl>
+    <projectUrl>https://pdfclown.org/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PDF Clown is an open-source general-purpose library for manipulating PDF documents through multiple abstraction layers, rigorously adhering to PDF 1.7 Specification (ISO 32000-1). Available for Java and .NET platforms.</description>
+    <copyright>Copyright © 2017 Stefano Chizzolini.</copyright>
+    <tags>PDF PDF-To-Image Rasterizer</tags>
+  </metadata>
+</package>
